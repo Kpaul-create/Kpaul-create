@@ -15,14 +15,14 @@
 <div align="center">
 
 ```
- _  __              _     _       ____              _
+_  __              _     _       ____             _
 | |/ /__ _ _ __   (_)___| |__   |  _ \ __ _ _   _| |
 | ' // _` | '_ \  | / __| '_ \  | |_) / _` | | | | |
 | . \ (_| | | | | | \__ \ | | | |  __/ (_| | |_| | |
 |_|\_\__,_|_| |_| |_|___/_| |_| |_|   \__,_|\__,_|_|
 ```
 
-**CSE / AI·ML**&nbsp;&nbsp;·&nbsp;&nbsp;*building things to understand them.*
+**Web development / AI·ML**&nbsp;&nbsp;·&nbsp;&nbsp;*building things to understand them.*
 
 </div>
 
@@ -74,10 +74,10 @@ kanish@github:~$ ls projects
 ```
 
 ```
-01  AXI                  ·  [replace with repo link and description]
-02  AI / Computer Vision ·  [replace with repo link and description]
-03  Robotics             ·  [replace with repo link and description]
-04  Experimental Systems ·  [replace with repo link and description]
+01  AXI                  ·  https://github.com/Kpaul-create/axi
+02  AI / Computer Vision ·  https://github.com/Kpaul-create/RuView
+03  Robotics             ·  https://github.com/Kpaul-create/kanish-paul-s-digital-lair
+04  Experimental Systems ·  https://github.com/Kpaul-create/chess-laya
 ```
 
 <!-- ── PROJECT TABLE ────────────────────────────────────────────────────── -->
