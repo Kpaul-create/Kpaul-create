@@ -1,0 +1,146 @@
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --bg:    #0d1117;
+  --bg2:   #161b22;
+  --border:#30363d;
+  --fg:    #c9d1d9;
+  --dim:   #8b949e;
+  --acc:   #58a6ff;
+  --green: #3fb950;
+  --red:   #f85149;
+  --warn:  #d29922;
+  --font:  "Courier New", Courier, monospace;
+}
+
+html, body {
+  height: 100%;
+  background: var(--bg);
+  color: var(--fg);
+  font-family: var(--font);
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+#terminal {
+  max-width: 680px;
+  margin: 0 auto;
+  padding: 24px 16px 48px;
+  min-height: 100vh;
+}
+
+/* ── title bar ── */
+#titlebar {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  border: 1px solid var(--border);
+  border-bottom: none;
+  padding: 6px 12px;
+  background: var(--bg2);
+  font-size: 12px;
+  color: var(--dim);
+  letter-spacing: 0.08em;
+}
+#titlebar .dot { width:10px; height:10px; border-radius:50%; }
+#titlebar .dot.r { background:#f85149; }
+#titlebar .dot.y { background:#d29922; }
+#titlebar .dot.g { background:#3fb950; }
+#titlebar .title { margin-left: auto; margin-right: auto; color: var(--fg); }
+
+/* ── screen ── */
+#screen {
+  border: 1px solid var(--border);
+  padding: 20px 24px;
+  background: var(--bg);
+  min-height: 420px;
+}
+
+/* ── output lines ── */
+.line { white-space: pre-wrap; word-break: break-word; }
+.line.acc   { color: var(--acc); }
+.line.green { color: var(--green); }
+.line.red   { color: var(--red); }
+.line.warn  { color: var(--warn); }
+.line.dim   { color: var(--dim); }
+.line.bold  { font-weight: bold; }
+.line.sep   { color: var(--border); }
+
+/* ── progress bar ── */
+.bar { color: var(--green); }
+.bar-empty { color: var(--border); }
+
+/* ── input row ── */
+#input-row {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin-top: 12px;
+  border-top: 1px solid var(--border);
+  padding-top: 10px;
+}
+#prompt-label { color: var(--acc); white-space: nowrap; }
+#cmd-input {
+  flex: 1;
+  background: transparent;
+  border: none;
+  outline: none;
+  color: var(--fg);
+  font-family: var(--font);
+  font-size: 14px;
+  caret-color: var(--acc);
+}
+
+/* ── choices ── */
+#choices {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 10px;
+}
+.choice-btn {
+  background: var(--bg2);
+  border: 1px solid var(--border);
+  color: var(--fg);
+  font-family: var(--font);
+  font-size: 13px;
+  padding: 4px 12px;
+  cursor: pointer;
+  transition: border-color 0.15s, color 0.15s;
+}
+.choice-btn:hover { border-color: var(--acc); color: var(--acc); }
+
+/* ── boot progress animation ── */
+@keyframes fill-bar {
+  from { width: 0; }
+  to   { width: 100%; }
+}
+#boot-bar-inner {
+  display: inline-block;
+  overflow: hidden;
+  animation: fill-bar 1.8s steps(20, end) forwards;
+  color: var(--green);
+}
+
+/* ── fade in ── */
+@keyframes fadein { from { opacity:0; } to { opacity:1; } }
+.fade { animation: fadein 0.4s ease forwards; }
+
+/* ── blink cursor ── */
+@keyframes blink { 0%,100%{opacity:1} 50%{opacity:0} }
+.cursor { animation: blink 1s step-end infinite; color: var(--acc); }
+
+/* ── scanline (very subtle) ── */
+#screen::after {
+  content: "";
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  background: repeating-linear-gradient(
+    to bottom,
+    transparent 0px,
+    transparent 2px,
+    rgba(0,0,0,0.04) 2px,
+    rgba(0,0,0,0.04) 4px
+  );
+}

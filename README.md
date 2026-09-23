@@ -119,11 +119,11 @@ kanish@github:~$ ./neural.exe
 
 <div align="center">
 
-<a href="https://kpaul-create.github.io/kpaul-create/game/">
+<a href="https://kpaul-create.github.io/kpaul-create/">
   <img src="./assets/neural-preview.svg" width="680" alt="NEURAL.EXE — click to play">
 </a>
 
-<sub><code>&gt; ENTER SYSTEM</code>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://kpaul-create.github.io/kpaul-create/game/">play NEURAL.EXE ↗</a></sub>
+<sub><code>&gt; ENTER SYSTEM</code>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://kpaul-create.github.io/kpaul-create/">play NEURAL.EXE ↗</a></sub>
 
 </div>
 
