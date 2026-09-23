@@ -74,7 +74,7 @@ kanish@github:~$ ls projects
 ```
 
 ```
-01  AXI                  ·  https://github.com/Kpaul-create/axi
+01  AXI                  ·  [link](https://github.com/Kpaul-create/axi)
 02  AI / Computer Vision ·  https://github.com/Kpaul-create/RuView
 03  Robotics             ·  https://github.com/Kpaul-create/kanish-paul-s-digital-lair
 04  Experimental Systems ·  https://github.com/Kpaul-create/chess-laya
