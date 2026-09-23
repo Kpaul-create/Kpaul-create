@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="320" viewBox="0 0 680 320">
+  <defs>
+    <style>
+      text { font-family: "Courier New", Courier, monospace; }
+      .acc  { fill: #58a6ff; }
+      .green{ fill: #3fb950; }
+      .red  { fill: #f85149; }
+      .warn { fill: #d29922; }
+      .dim  { fill: #8b949e; }
+      .fg   { fill: #c9d1d9; }
+      .sep  { fill: #30363d; }
+    </style>
+  </defs>
+
+  <!-- background -->
+  <rect width="680" height="320" fill="#0d1117" rx="4"/>
+
+  <!-- title bar -->
+  <rect width="680" height="28" fill="#161b22" rx="4"/>
+  <rect width="680" height="14" y="14" fill="#161b22"/>
+  <circle cx="16" cy="14" r="5" fill="#f85149"/>
+  <circle cx="32" cy="14" r="5" fill="#d29922"/>
+  <circle cx="48" cy="14" r="5" fill="#3fb950"/>
+  <text x="340" y="19" font-size="11" fill="#8b949e" text-anchor="middle">NEURAL.EXE — kpaul-create</text>
+
+  <!-- border -->
+  <rect x="0" y="28" width="680" height="292" fill="none" stroke="#30363d" stroke-width="1" rx="0"/>
+
+  <!-- scanline overlay -->
+  <rect width="680" height="320" fill="url(#scan)" opacity="0.04"/>
+
+  <!-- content lines — each fades in sequentially -->
+  <g font-size="13">
+
+    <text x="24" y="60" class="acc" font-weight="bold" opacity="0">
+      NEURAL.EXE  v0.1.0
+      <animate attributeName="opacity" values="0;1" dur="0.3s" begin="0.2s" fill="freeze"/>
+    </text>
+
+    <text x="24" y="82" class="dim" opacity="0">
+      BOOTING NEURAL SYSTEM...
+      <animate attributeName="opacity" values="0;1" dur="0.3s" begin="0.6s" fill="freeze"/>
+    </text>
+
+    <!-- boot bar -->
+    <text x="24" y="102" class="green" opacity="0" font-size="13">
+      [                    ]   0%
+      <animate attributeName="opacity" values="0;1" dur="0.1s" begin="0.9s" fill="freeze"/>
+    </text>
+    <text x="24" y="102" class="green" opacity="0" font-size="13">
+      [████████████████████] 100%
+      <animate attributeName="opacity" values="0;1" dur="0.1s" begin="2.0s" fill="freeze"/>
+    </text>
+
+    <text x="24" y="126" class="green" font-weight="bold" opacity="0">
+      NEURAL SYSTEM ONLINE
+      <animate attributeName="opacity" values="0;1" dur="0.3s" begin="2.3s" fill="freeze"/>
+    </text>
+
+    <text x="24" y="150" class="acc" opacity="0">
+      MODEL STATUS
+      <animate attributeName="opacity" values="0;1" dur="0.2s" begin="2.6s" fill="freeze"/>
+    </text>
+
+    <text x="24" y="168" class="green" opacity="0">
+      INPUT       ██████████
+      <animate attributeName="opacity" values="0;1" dur="0.2s" begin="2.8s" fill="freeze"/>
+    </text>
+    <text x="24" y="184" class="warn" opacity="0">
+      HIDDEN 1    ████░░░░░░
+      <animate attributeName="opacity" values="0;1" dur="0.2s" begin="3.0s" fill="freeze"/>
+    </text>
+    <text x="24" y="200" class="red" opacity="0">
+      HIDDEN 2    ░░░░░░░░░░
+      <animate attributeName="opacity" values="0;1" dur="0.2s" begin="3.2s" fill="freeze"/>
+    </text>
+    <text x="24" y="216" class="red" opacity="0">
+      OUTPUT      ✕ CORRUPTED
+      <animate attributeName="opacity" values="0;1" dur="0.2s" begin="3.4s" fill="freeze"/>
+    </text>
+
+    <text x="24" y="240" class="red" opacity="0">
+      ERROR: Gradient vanished.
+      <animate attributeName="opacity" values="0;1" dur="0.2s" begin="3.7s" fill="freeze"/>
+    </text>
+
+    <text x="24" y="262" class="dim" opacity="0">
+      Solve the diagnostic sequence to restore the model.
+      <animate attributeName="opacity" values="0;1" dur="0.3s" begin="4.1s" fill="freeze"/>
+    </text>
+
+    <!-- blinking prompt -->
+    <text x="24" y="290" class="acc" opacity="0">
+      &gt; ENTER SYSTEM
+      <animate attributeName="opacity" values="0;1" dur="0.3s" begin="4.6s" fill="freeze"/>
+    </text>
+    <text x="168" y="290" class="acc" font-weight="bold">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" begin="4.9s" repeatCount="indefinite"/>
+      _
+    </text>
+
+  </g>
+</svg>

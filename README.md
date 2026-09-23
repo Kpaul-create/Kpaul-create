@@ -1,25 +1,169 @@
-<h1 align="center">Hello 😊, I'm Kanish Paul</h1>
+<!--
+  ┌─────────────────────────────────────────────────────────────────────────┐
+  │  KANISH PAUL — github.com/kpaul-create                                  │
+  │  Terminal-style profile README                                           │
+  │                                                                          │
+  │  TO CUSTOMISE:                                                           │
+  │    1. Drop your ASCII portrait GIF into assets/ascii.gif                │
+  │    2. Update scripts/make_info_card.py LINES[] with your info           │
+  │    3. Update the Projects section below with real repo links             │
+  │    4. Deploy game/ to GitHub Pages (Settings → Pages → /game branch)   │
+  │       then update the NEURAL.EXE link href below                        │
+  └─────────────────────────────────────────────────────────────────────────┘
+-->
 
-- I’m currently working on **Myself**
-- 🌱 I’m currently learning **Coding**
-- 📫 How to reach me **the.kanishpaul@gmail.com**
+<div align="center">
 
-  
-<h4 align="left">Connect with me:</h4>
+```
+ _  __              _     _       ____              _
+| |/ /__ _ _ __   (_)___| |__   |  _ \ __ _ _   _| |
+| ' // _` | '_ \  | / __| '_ \  | |_) / _` | | | | |
+| . \ (_| | | | | | \__ \ | | | |  __/ (_| | |_| | |
+|_|\_\__,_|_| |_| |_|___/_| |_| |_|   \__,_|\__,_|_|
+```
 
-<p align="left">
-<a href="https://codepen.io/kpaul-create" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kpaul-create" height="30" width="40" /></a>
-<a href="https://twitter.com/thek_paul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thek_paul" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kpaul0011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kpaul0011" height="30" width="40" /></a>
-<a href="https://instagram.com/the.k_paul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the.k_paul" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/iq_testyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="iq_testyt" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/user5741cw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user5741cw" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/profile/kanishpauraqc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="profile/kanishpauraqc" height="30" width="40" /></a>
-</p>
+**CSE / AI·ML**&nbsp;&nbsp;·&nbsp;&nbsp;*building things to understand them.*
 
-<h4 align="left">Languages/Tools:</h4>
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=plastic&logo=Raspberry-Pi) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
+
+---
+
+```
+kanish@github:~$ whoami
+```
+
+<table>
+<tr>
+<td valign="top" width="370">
+
+<!-- ── ASCII PORTRAIT ──────────────────────────────────────────────────── -->
+<!-- Drop your animated GIF into assets/ascii.gif                          -->
+<!-- If you don't have one yet, remove this cell or use a placeholder      -->
+
+<img src="./assets/ascii.gif" width="360" alt="ascii portrait">
+
+</td>
+<td valign="top" width="490">
+
+<!-- ── NEOFETCH INFO CARD ─────────────────────────────────────────────── -->
+<!-- Auto-generated by: python scripts/make_info_card.py                  -->
+
+<img src="./generated/info-card.svg" width="480" alt="info card">
+
+</td>
+</tr>
+</table>
+
+---
+
+```
+kanish@github:~$ git activity
+```
+
+<!-- ── CONTRIBUTION HEATMAP ────────────────────────────────────────────── -->
+<!-- Auto-generated daily by GitHub Actions                                -->
+<!-- Manually: python scripts/fetch_contributions.py                      -->
+<!--           python scripts/render_heatmap_svg.py                       -->
+
+<img src="./generated/contrib-heatmap.svg" width="860" alt="contribution heatmap">
+
+---
+
+```
+kanish@github:~$ ls projects
+```
+
+```
+01  AXI                  ·  [replace with repo link and description]
+02  AI / Computer Vision ·  [replace with repo link and description]
+03  Robotics             ·  [replace with repo link and description]
+04  Experimental Systems ·  [replace with repo link and description]
+```
+
+<!-- ── PROJECT TABLE ────────────────────────────────────────────────────── -->
+<!-- Replace each href and description with your actual repositories       -->
+
+<table>
+<tr>
+<td width="50" align="center"><code>01</code></td>
+<td><b><a href="https://github.com/kpaul-create">AXI</a></b></td>
+<td><code><!-- short description --></code></td>
+</tr>
+<tr>
+<td align="center"><code>02</code></td>
+<td><b><a href="https://github.com/kpaul-create">AI / Computer Vision</a></b></td>
+<td><code><!-- short description --></code></td>
+</tr>
+<tr>
+<td align="center"><code>03</code></td>
+<td><b><a href="https://github.com/kpaul-create">Robotics</a></b></td>
+<td><code><!-- short description --></code></td>
+</tr>
+<tr>
+<td align="center"><code>04</code></td>
+<td><b><a href="https://github.com/kpaul-create">Experimental Systems</a></b></td>
+<td><code><!-- short description --></code></td>
+</tr>
+</table>
+
+---
+
+```
+kanish@github:~$ ./neural.exe
+```
+
+<!-- ── NEURAL.EXE PREVIEW ──────────────────────────────────────────────── -->
+<!-- The SVG animates a terminal boot sequence on load.                    -->
+<!-- Clicking it opens the actual game on GitHub Pages.                   -->
+<!-- After deploying game/ to Pages, replace the href below.              -->
+
+<div align="center">
+
+<a href="https://kpaul-create.github.io/kpaul-create/game/">
+  <img src="./assets/neural-preview.svg" width="680" alt="NEURAL.EXE — click to play">
+</a>
+
+<sub><code>&gt; ENTER SYSTEM</code>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://kpaul-create.github.io/kpaul-create/game/">play NEURAL.EXE ↗</a></sub>
+
+</div>
+
+---
+
+```
+kanish@github:~$ cat stack
+```
+
+```
+Python · PyTorch · TensorFlow · scikit-learn · NumPy · Pandas
+Java · JavaScript · React · Next.js · Node.js
+Docker · Linux · Nginx · Git
+MySQL · MongoDB · Redis
+C · C++ · Kotlin
+```
+
+---
+
+```
+kanish@github:~$ find ./links
+```
+
+<table>
+<tr>
+<td><a href="https://linkedin.com/in/kpaul0011"><code>LinkedIn</code></a></td>
+<td><a href="https://twitter.com/thek_paul"><code>X / Twitter</code></a></td>
+<td><a href="https://www.leetcode.com/user5741cw"><code>LeetCode</code></a></td>
+<td><a href="https://auth.geeksforgeeks.org/user/profile/kanishpauraqc"><code>GeeksForGeeks</code></a></td>
+</tr>
+<tr>
+<td><a href="https://codepen.io/kpaul-create"><code>CodePen</code></a></td>
+<td><a href="https://instagram.com/the.k_paul"><code>Instagram</code></a></td>
+<td><a href="https://www.youtube.com/c/iq_testyt"><code>YouTube</code></a></td>
+<td><a href="mailto:the.kanishpaul@gmail.com"><code>Email</code></a></td>
+</tr>
+</table>
+
+---
+
+```
+kanish@github:~$ _
+```
