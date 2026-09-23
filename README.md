@@ -74,7 +74,7 @@ kanish@github:~$ ls projects
 ```
 
 ```
-01  AXI                  ·  [link](https://github.com/Kpaul-create/axi)
+01  AXI                  ·  https://github.com/Kpaul-create/axi
 02  AI / Computer Vision ·  https://github.com/Kpaul-create/RuView
 03  Robotics             ·  https://github.com/Kpaul-create/kanish-paul-s-digital-lair
 04  Experimental Systems ·  https://github.com/Kpaul-create/chess-laya
@@ -86,22 +86,22 @@ kanish@github:~$ ls projects
 <table>
 <tr>
 <td width="50" align="center"><code>01</code></td>
-<td><b><a href="https://github.com/kpaul-create">AXI</a></b></td>
+<td><b><a href="https://github.com/Kpaul-create/axi">AXI</a></b></td>
 <td><code><!-- short description --></code></td>
 </tr>
 <tr>
 <td align="center"><code>02</code></td>
-<td><b><a href="https://github.com/kpaul-create">AI / Computer Vision</a></b></td>
+<td><b><a href="https://github.com/Kpaul-create/RuView">AI / Computer Vision</a></b></td>
 <td><code><!-- short description --></code></td>
 </tr>
 <tr>
 <td align="center"><code>03</code></td>
-<td><b><a href="https://github.com/kpaul-create">Robotics</a></b></td>
+<td><b><a href="https://github.com/Kpaul-create/kanish-paul-s-digital-lair">Robotics</a></b></td>
 <td><code><!-- short description --></code></td>
 </tr>
 <tr>
 <td align="center"><code>04</code></td>
-<td><b><a href="https://github.com/kpaul-create">Experimental Systems</a></b></td>
+<td><b><a href="https://github.com/Kpaul-create/chess-laya">Experimental Systems</a></b></td>
 <td><code><!-- short description --></code></td>
 </tr>
 </table>
