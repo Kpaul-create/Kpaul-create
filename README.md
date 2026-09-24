@@ -26,7 +26,7 @@ kanish@github:~$ whoami
 <!-- Drop your animated GIF into assets/ascii.gif                          -->
 <!-- If you don't have one yet, remove this cell or use a placeholder      -->
 
-<img src="./assets/ascii.gif" valign="top" width="490"></img>
+<img src="./assets/ascii.gif" valign="top" width="390"></img>
 
 </td>
 <td valign="top" width="490">
