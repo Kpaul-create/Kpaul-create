@@ -65,10 +65,8 @@ kanish@github:~$ ls projects
 03  Robotics             ·  https://github.com/Kpaul-create/kanish-paul-s-digital-lair
 04  Experimental Systems ·  https://github.com/Kpaul-create/chess-laya
 ```
-
 <!-- ── PROJECT TABLE ────────────────────────────────────────────────────── -->
 <!-- Replace each href and description with your actual repositories       -->
-
 <table>
 <tr>
 <td width="50" align="center"><code>01</code></td>
@@ -91,34 +89,24 @@ kanish@github:~$ ls projects
 <td><code><!-- short description --></code></td>
 </tr>
 </table>
-
 ---
-https://github.com/user-attachments/assets/1f6c5252-e42f-4d72-b5ec-25eabcd305cd
 ```
 kanish@github:~$ ./neural.exe
 ```
-
 <!-- ── NEURAL.EXE PREVIEW ──────────────────────────────────────────────── -->
 <!-- The SVG animates a terminal boot sequence on load.                    -->
 <!-- Clicking it opens the actual game on GitHub Pages.                   -->
 <!-- After deploying game/ to Pages, replace the href below.              -->
-
 <div align="center">
-
 <a href="https://kpaul-create.github.io/kpaul-create/">
   <img src="./assets/neural-preview.svg" width="680" alt="NEURAL.EXE — click to play">
 </a>
-
 <sub><code>&gt; ENTER SYSTEM</code>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://kpaul-create.github.io/kpaul-create/">play NEURAL.EXE ↗</a></sub>
-
 </div>
-
 ---
-
 ```
 kanish@github:~$ cat stack
 ```
-
 ```
 Python · PyTorch · TensorFlow · scikit-learn · NumPy · Pandas
 Java · JavaScript · React · Next.js · Node.js
@@ -126,13 +114,10 @@ Docker · Linux · Nginx · Git
 MySQL · MongoDB · Redis
 C · C++ · Kotlin
 ```
-
 ---
-
 ```
 kanish@github:~$ find ./links
 ```
-
 <table>
 <tr>
 <td><a href="https://linkedin.com/in/kpaul0011"><code>LinkedIn</code></a></td>
@@ -147,9 +132,8 @@ kanish@github:~$ find ./links
 <td><a href="mailto:the.kanishpaul@gmail.com"><code>Email</code></a></td>
 </tr>
 </table>
-
 ---
-
 ```
 kanish@github:~$ _
 ```
+https://github.com/user-attachments/assets/1f6c5252-e42f-4d72-b5ec-25eabcd305cd
