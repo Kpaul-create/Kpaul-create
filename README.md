@@ -1,20 +1,3 @@
-
-
-https://github.com/user-attachments/assets/1f6c5252-e42f-4d72-b5ec-25eabcd305cd
-<!--
-  ┌─────────────────────────────────────────────────────────────────────────┐
-  │  KANISH PAUL — github.com/kpaul-create                                  │
-  │  Terminal-style profile README                                           │
-  │                                                                          │
-  │  TO CUSTOMISE:                                                           │
-  │    1. Drop your ASCII portrait GIF into assets/ascii.gif                │
-  │    2. Update scripts/make_info_card.py LINES[] with your info           │
-  │    3. Update the Projects section below with real repo links             │
-  │    4. Deploy game/ to GitHub Pages (Settings → Pages → /game branch)   │
-  │       then update the NEURAL.EXE link href below                        │
-  └─────────────────────────────────────────────────────────────────────────┘
--->
-
 <div align="center">
 
 ```
@@ -43,14 +26,7 @@ kanish@github:~$ whoami
 <!-- Drop your animated GIF into assets/ascii.gif                          -->
 <!-- If you don't have one yet, remove this cell or use a placeholder      -->
 
-<video
-  src="https://github.com/user-attachments/assets/1f6c5252-e42f-4d72-b5ec-25eabcd305cd"
-  width="720"
-  height="480"
-  controls
-  loop
-  playsinline
-></video>
+<img src="./assets/ascii.gif"></img>
 
 </td>
 <td valign="top" width="490">
@@ -117,7 +93,7 @@ kanish@github:~$ ls projects
 </table>
 
 ---
-
+https://github.com/user-attachments/assets/1f6c5252-e42f-4d72-b5ec-25eabcd305cd
 ```
 kanish@github:~$ ./neural.exe
 ```
