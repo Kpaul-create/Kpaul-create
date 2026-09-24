@@ -1,4 +1,6 @@
-https://github.com/user-attachments/assets/ea324c3b-4442-4594-b405-4b0614148d30
+
+
+https://github.com/user-attachments/assets/1f6c5252-e42f-4d72-b5ec-25eabcd305cd
 <!--
   ┌─────────────────────────────────────────────────────────────────────────┐
   │  KANISH PAUL — github.com/kpaul-create                                  │
@@ -41,7 +43,14 @@ kanish@github:~$ whoami
 <!-- Drop your animated GIF into assets/ascii.gif                          -->
 <!-- If you don't have one yet, remove this cell or use a placeholder      -->
 
-<img src="./assets/ascii.gif" width="360" alt="ascii portrait">
+<video
+  src="https://github.com/user-attachments/assets/1f6c5252-e42f-4d72-b5ec-25eabcd305cd"
+  width="720"
+  height="480"
+  controls
+  loop
+  playsinline
+></video>
 
 </td>
 <td valign="top" width="490">
@@ -69,7 +78,6 @@ kanish@github:~$ git activity
 <img src="./generated/contrib-heatmap.svg" width="860" alt="contribution heatmap">
 
 ---
-<img width="2000" height="2000" alt="Yellow and Black Playful Simple Pixel Art Game Studio Logo (1)" src="https://github.com/user-attachments/assets/04407588-e16f-4e1b-8db1-7967d5ebfa8c" />
 
 ```
 kanish@github:~$ ls projects
