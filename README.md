@@ -90,13 +90,16 @@ kanish@github:~$ ls projects
 </tr>
 </table>
 ---
+
 ```
 kanish@github:~$ ./neural.exe
 ```
+
 <!-- ── NEURAL.EXE PREVIEW ──────────────────────────────────────────────── -->
 <!-- The SVG animates a terminal boot sequence on load.                    -->
 <!-- Clicking it opens the actual game on GitHub Pages.                   -->
 <!-- After deploying game/ to Pages, replace the href below.              -->
+
 <div align="center">
 <a href="https://kpaul-create.github.io/kpaul-create/">
   <img src="./assets/neural-preview.svg" width="680" alt="NEURAL.EXE — click to play">
@@ -104,9 +107,11 @@ kanish@github:~$ ./neural.exe
 <sub><code>&gt; ENTER SYSTEM</code>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://kpaul-create.github.io/kpaul-create/">play NEURAL.EXE ↗</a></sub>
 </div>
 ---
+
 ```
 kanish@github:~$ cat stack
 ```
+
 ```
 Python · PyTorch · TensorFlow · scikit-learn · NumPy · Pandas
 Java · JavaScript · React · Next.js · Node.js
@@ -114,10 +119,13 @@ Docker · Linux · Nginx · Git
 MySQL · MongoDB · Redis
 C · C++ · Kotlin
 ```
+
 ---
+
 ```
 kanish@github:~$ find ./links
 ```
+
 <table>
 <tr>
 <td><a href="https://linkedin.com/in/kpaul0011"><code>LinkedIn</code></a></td>
@@ -133,7 +141,6 @@ kanish@github:~$ find ./links
 </tr>
 </table>
 ---
-
 
 ```
 kanish@github:~$ _
