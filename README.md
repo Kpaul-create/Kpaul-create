@@ -1,12 +1,4 @@
-<img width="540" height="304" alt="senjo" src="https://github.com/user-attachments/assets/b69ced6d-cf17-430c-b363-fe9df6049697" />
-
-
 https://github.com/user-attachments/assets/ea324c3b-4442-4594-b405-4b0614148d30
-
-
-
-https://github.com/user-attachments/assets/4957a98a-c43a-4a83-b8d3-be8fb055e794
-
 <!--
   ┌─────────────────────────────────────────────────────────────────────────┐
   │  KANISH PAUL — github.com/kpaul-create                                  │
