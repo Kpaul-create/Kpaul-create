@@ -129,15 +129,15 @@ kanish@github:~$ find ./links
 <table>
 <tr>
 <td><a href="https://linkedin.com/in/kpaul0011"><code>LinkedIn</code></a></td>
-<td><a href="https://twitter.com/thek_paul"><code>X / Twitter</code></a></td>
+<td><a href="https://x.com/thek_paul"><code>X / Twitter</code></a></td>
 <td><a href="https://www.leetcode.com/user5741cw"><code>LeetCode</code></a></td>
 <td><a href="https://auth.geeksforgeeks.org/user/profile/kanishpauraqc"><code>GeeksForGeeks</code></a></td>
 </tr>
 <tr>
 <td><a href="https://codepen.io/kpaul-create"><code>CodePen</code></a></td>
-<td><a href="https://instagram.com/the.k_paul"><code>Instagram</code></a></td>
-<td><a href="https://www.youtube.com/c/iq_testyt"><code>YouTube</code></a></td>
-<td><a href="mailto:the.kanishpaul@gmail.com"><code>Email</code></a></td>
+<td><a href="https://instagram.com/kpaulfit"><code>Instagram</code></a></td>
+<td><a href="https://www.youtube.com/c/kp.mp4"><code>YouTube</code></a></td>
+<td><a href="mailto:kanishpaul.8.6.2005@gmail.com"><code>Email</code></a></td>
 </tr>
 </table>
 ---
